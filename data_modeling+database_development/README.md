@@ -4,6 +4,12 @@
 
 ### Sample of Data Modeling and Database Development with SQL Server and MySQL
 
+
+### Summary of Work
+- Data modeling based on business requirements
+- Database creation using SQL and T-SQL (MySQL and SQL Server)
+- Development of stored procedures, views, triggers, etc. (MySQL and SQL Server)
+
 *Links to Code:*
 - [Court Database (MySQL)](court_database.sql "Court Database")
 - [Court Queries (MySQL)](court_queries.sql "Court Queries")

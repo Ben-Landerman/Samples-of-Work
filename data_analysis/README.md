@@ -4,6 +4,11 @@
 
 ### Sample of Data Analysis and Visualization with Python and Tableau
 
+### Summary of Work
+- Data cleaning and analysis of 2019-2020 NBA season with Python (dataset from: https://www.basketball-reference.com/leagues/NBA_2020.html)
+- Feature selection and creation of heatmap to find attributes correlated to win/loss percentage with Python
+- Data visualization of interesting statistics that may affect win/loss percentage with Tableau
+
 *Links to Code:*
 - [Data Cleaning and Heat Map](nba_code.py "Data Cleaning and Heat Map")
 
